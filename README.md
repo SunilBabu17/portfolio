@@ -94,7 +94,7 @@ This creates an optimized production build in the `build` folder.
 - **Email**: sunil.babu1310@gmail.com
 - **LinkedIn**: [Sunil Babu R](https://www.linkedin.com/in/sunil-babu-r-1596842b3/)
 - **GitHub**: [@SunilBabu17](https://github.com/SunilBabu17)
-- **Instagram**: [@your_instagram](https://instagram.com/sunil_babu17)
+- **Instagram**: [@sunil_babu17](https://instagram.com/sunil_babu17)
 
 ## 📄 License
 
