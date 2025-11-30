@@ -2,11 +2,9 @@
 
 A modern, responsive portfolio website built with React and Tailwind CSS, showcasing my projects, skills, and professional experience.
 
-![Portfolio Preview](./preview.png)
-
 ## 🚀 Live Demo
 
-[View Live Site](https://sunilbabu17.github.io/portfolio)
+[View Live Site](https://sunilbabu-portfolio.vercel.app/)
 
 ## 👨‍💻 About
 
